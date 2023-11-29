@@ -1,4 +1,3 @@
-# GitHubDemo
-This is my first repository
+# Java-Demo-Git
 <br>
-Author:ManoPriya
+git demo
