@@ -1,3 +1,3 @@
-# Java-Demo-Git
+# GitHubDemo
 <br>
-git demo
+java demo git
